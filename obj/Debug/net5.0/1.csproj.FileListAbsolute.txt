@@ -1,0 +1,16 @@
+/home/alisher/a/aa/projects/csharp/academy/1/bin/Debug/net5.0/1
+/home/alisher/a/aa/projects/csharp/academy/1/bin/Debug/net5.0/1.deps.json
+/home/alisher/a/aa/projects/csharp/academy/1/bin/Debug/net5.0/1.runtimeconfig.json
+/home/alisher/a/aa/projects/csharp/academy/1/bin/Debug/net5.0/1.runtimeconfig.dev.json
+/home/alisher/a/aa/projects/csharp/academy/1/bin/Debug/net5.0/1.dll
+/home/alisher/a/aa/projects/csharp/academy/1/bin/Debug/net5.0/ref/1.dll
+/home/alisher/a/aa/projects/csharp/academy/1/bin/Debug/net5.0/1.pdb
+/home/alisher/a/aa/projects/csharp/academy/1/obj/Debug/net5.0/1.csprojAssemblyReference.cache
+/home/alisher/a/aa/projects/csharp/academy/1/obj/Debug/net5.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alisher/a/aa/projects/csharp/academy/1/obj/Debug/net5.0/1.AssemblyInfoInputs.cache
+/home/alisher/a/aa/projects/csharp/academy/1/obj/Debug/net5.0/1.AssemblyInfo.cs
+/home/alisher/a/aa/projects/csharp/academy/1/obj/Debug/net5.0/1.csproj.CoreCompileInputs.cache
+/home/alisher/a/aa/projects/csharp/academy/1/obj/Debug/net5.0/1.dll
+/home/alisher/a/aa/projects/csharp/academy/1/obj/Debug/net5.0/ref/1.dll
+/home/alisher/a/aa/projects/csharp/academy/1/obj/Debug/net5.0/1.pdb
+/home/alisher/a/aa/projects/csharp/academy/1/obj/Debug/net5.0/1.genruntimeconfig.cache
